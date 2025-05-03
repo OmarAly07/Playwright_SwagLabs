@@ -37,7 +37,9 @@ A robust end-to-end testing framework for SwagLabs using Playwright with Page Ob
 - **CI/CD** ready configuration
 - **Test data** management
 
+---
 ## 📂 Project Structure
+<pre>
 Playwright_SwagLabs/
 ├── .allure/ # Allure config
 ├── allure-report/ # Allure reports
@@ -61,7 +63,8 @@ Playwright_SwagLabs/
 ├── package.json
 ├── playwright.config.js # Test config
 └── test-data.js # Test data
-
+</pre>
+---
 ## ⚙️ Installation
 
 1. **Clone the repository**
