@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3060","Successful Login > Filter Products > Select First Two Products > Get To Cart > Remove Second Product From Cart > Complete Checkout","edge","Sat May 03 18:13:40 EEST 2025","passed","Sat May 03 18:13:43 EEST 2025","End To End Scenario 2 SwagLabs E-commerce","Scenario2.spec.js","",""
+"","3060","Successful Login > Select Products > Go To Cart > Complete Checkout","edge","Sat May 03 18:13:40 EEST 2025","passed","Sat May 03 18:13:43 EEST 2025","End To End Scenario 1 SwagLabs E-commerce","Scenario1.spec.js","",""
