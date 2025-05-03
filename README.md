@@ -11,7 +11,6 @@ This project is a robust end-to-end testing framework built using **[Microsoft P
 - 📸 Automatic screenshots on failure
 - 🎥 Video recording of test runs
 - 📊 Allure reports for beautiful test analytics
-- 🔁 CI/CD-ready (GitHub Actions compatible)
 
 A robust end-to-end testing framework for SwagLabs using Playwright with Page Object Model design, Allure reporting, and CI/CD readiness.
 
